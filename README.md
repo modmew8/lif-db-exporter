@@ -23,6 +23,12 @@ git clone git@github.com:modmew8/lif-db-exporter.git
 git clone https://github.com/modmew8/lif-db-exporter.git
 ```
 
+Navigate to cloned repository
+
+```bash
+cd lif-db-exporter
+```
+
 Compile jar file with gradle
 
 ```bash
